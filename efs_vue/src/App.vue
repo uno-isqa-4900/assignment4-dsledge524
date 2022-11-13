@@ -106,7 +106,7 @@ export default {
 }
 .nav {
   padding: 1em;
-  background-color: cadetblue;
+  background-color: rgb(217, 83, 99);
   li {
     font-weight: bold;
     color: #2c3e50;

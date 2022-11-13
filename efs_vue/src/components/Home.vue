@@ -22,11 +22,11 @@
 
   <!-- Welcome Image -->
 
-  <div class="container-fluid">
+  <div class="container-fluid" color="red">
     <div class="row align-items-center justify-content-center">
       <div class="col col-12 col-sm-10 col-md-10">
         <div class="card-group">
-          <div class="card">
+          <div class="card" >
             <img
               :src="require('@/assets/customer.jpg')"
               class="card-img-top"
